@@ -132,6 +132,7 @@ const mappings = {
   "color: #a3aab1": "color: #757575",
   "color: #c3c8cf": "color: #5a5a5a",
   "color: #c6cbd1": "color: #5a5a5a",
+  "color: rgba(27,31,35,.3)": "color: rgba(230,230,230,.3)",
   "color: rgba(27,31,35,.85)": "color: rgba(230,230,230,.85)",
   "color: hsla(0,0%,100%,.5)": "color: hsla(0,0%,100%,.5)",
   "color: hsla(0,0%,100%,.6)": "color: hsla(0,0%,100%,.6)",
