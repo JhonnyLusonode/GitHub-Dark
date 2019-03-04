@@ -1611,6 +1611,12 @@
   .u2f-registration-icon {
     color: #cb4 !important;
   }
+  /* auto-generated rule for "color: rgba(115,92,15,.5)" */
+  .page-new-repo .octicon-lock, .org-repos-mini .org-repo-name .octicon-lock,
+  .text-yellow, .page-gist-edit .octicon-gist-secret,
+  .gist-quicksearch-results .select-menu-item .octicon-gist-secret {
+    color: rgba(204, 187, 68, .5) !important;
+  }
   /* auto-generated rule for "color: #b08800" */
   html:not(#X) .text-pending, .text-yellow-800,
   .deployment-status-label.is-in_progress, .deployment-status-label.is-pending,
