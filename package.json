@@ -1,10 +1,10 @@
 {
-  "name": "github-dark",
+  "name": "github-dark-enterprise",
   "version": "1.21.46",
-  "description": "Dark GitHub style",
+  "description": "Dark GitHub Enterprise style",
   "license": "CC-BY-SA-4.0",
-  "repository": "StylishThemes/GitHub-Dark",
-  "homepage": "https://github.com/StylishThemes/GitHub-Dark",
+  "repository": "MitchDizzle/GitHub-Dark",
+  "homepage": "https://github.com/MitchDizzle/GitHub-Dark",
   "engines": {
     "node": ">=10"
   },
